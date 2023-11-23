@@ -4,6 +4,7 @@
 ![SceneSwitchWindow Image](SceneSwitchWindowScreenshot.png)
 
 Bootstrap Project Overview
+
 This project includes several tools and utilities designed to streamline development and improve organization within Unity.
 
 -----
@@ -11,6 +12,7 @@ This project includes several tools and utilities designed to streamline develop
 Contents:
 
 1. Logger
+
 The Logger provides a customized logging system to manage log messages in Unity. It facilitates better organization and filtering of log messages during development.
 
 Functionality:
@@ -26,6 +28,7 @@ Utilize Log, Warning, and Error methods within your scripts to manage log messag
 -----
 
 2. Bootstrapper
+
 The Bootstrapper initializes essential components before scene loading to maintain consistency across scenes and manage singletons or managers effectively.
 
 Functionality:
@@ -40,6 +43,7 @@ It gets loaded when the scene is loaded.
 -----
 
 3. Scene Switch Tool
+
 The Scene Switch Tool offers a convenient way to manage and switch between different scenes within the project directly from the Unity Editor.
 
 Functionality:
